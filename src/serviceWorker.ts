@@ -9,6 +9,12 @@
 
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read http://bit.ly/CRA-PWA
+declare var process: {
+  env: {
+    NODE_ENV: string;
+    PUBLIC_URL: string;
+  };
+};
 
 const isLocalhost = Boolean(
   window.location.hostname === "localhost" ||
