@@ -6,7 +6,7 @@
   "display": "browser",
   "scope": "/",
   "icons": {
-    "src": "images/icons/icon-96x96.png",
+    "src": "icon-96x96.png",
     "sizes": "384x384",
     "type": "image/png"
   },

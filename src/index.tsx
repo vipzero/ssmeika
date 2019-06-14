@@ -5,8 +5,6 @@ import Typography from "@material-ui/core/Typography";
 import TextField from "@material-ui/core/TextField";
 import useLocalStorage from "react-use/lib/useLocalStorage";
 
-import "./styles.css";
-
 const initFaces = ["(´・ω・｀)", "(^o^)", "(・∀・)", "まどか", "ほむら"];
 
 function App() {
