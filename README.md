@@ -1,2 +1,0 @@
-# ssmeika
-Created with CodeSandbox

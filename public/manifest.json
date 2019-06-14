@@ -1,0 +1,14 @@
+{
+  "name": "SSメイカ",
+  "short_name": "SSメイカ",
+  "theme_color": "#c3c3c3",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "scope": "/",
+  "icons": {
+    "src": "images/icons/icon-96x96.png",
+    "sizes": "384x384",
+    "type": "image/png"
+  },
+  "start_url": "ssmeika.vipper.dev"
+}
